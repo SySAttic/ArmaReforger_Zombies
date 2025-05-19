@@ -1,3 +1,7 @@
+================== DayZ Zombie implementation beta 0.1 =================
+================== Arma Reforger MOD BY General Bundai =================
+
+
 Zombie AI System:
 
 Complete zombie behavior with wandering, player detection, chasing, and attacking
